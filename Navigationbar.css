@@ -1,10 +1,8 @@
-.logo{
-  float: left;
-}
-
 .topnav{
 width: auto;
 height: 20px;
 background-color: gold;
-
+}
+.logo{
+  float: left;
 }
