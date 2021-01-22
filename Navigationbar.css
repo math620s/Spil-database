@@ -5,4 +5,6 @@ background-color: gray;
 }
 .logo{
   float: left;
+  background-color:goldenrod;
+  text-decoration-color: black;
 }
