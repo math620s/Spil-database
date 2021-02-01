@@ -6,7 +6,7 @@ nav{
   padding: 10px 20px 10px 20px;
   text-align: right;
   z-index: 1;
-  background: #ddbe0e;
+  background: #000000;
   margin: 25px auto;
   width:calc(100% - 60px);
 }
