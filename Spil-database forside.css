@@ -3,3 +3,11 @@ body{
 
 
 }
+nav{
+  position: relative;
+  padding: 10px 20px 10px 20px;
+  text-align: right;
+  z-index: 1;
+  background: #ddbe0e;
+  margin: 25px auto;
+  width:calc(100% - 60px);
