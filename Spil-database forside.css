@@ -19,9 +19,6 @@ body{
   display: inline-block;
 }
 
-.custom-padding{
-  padding-top: 25px;
-}
 
 nav{
   position: relative;
@@ -31,6 +28,12 @@ nav{
   background: rgb(14, 14, 14);
   margin: 25px;
   width:calc(100% - 60px);
+}
+
+.menu-area li a:hover{
+  background: rgb(37, 37, 37);
+  color: #ffffff;
+    text-decoration: underline;
 }
 
 .logo{
