@@ -8,7 +8,7 @@ nav{
   z-index: 1;
   background: rgb(14, 14, 14);
   margin: 25px auto;
-  width:calc(100% - 60px);
+  width:calc(100% - 30px);
 }
 .logo{
   float: left;
