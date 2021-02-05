@@ -10,6 +10,20 @@ nav{
   margin: 25px;
   width:calc(100% - 60px);
 }
+.menu-area li a{
+  text-decoration: none;
+  color: #fff;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  display: block;
+  padding: 0 25px;
+  font-size: 14px;
+  line-height: 30px;
+  position: relative;
+  z-index: 1;
+}
+
+
 .logo{
   float: left;
 
