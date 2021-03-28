@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(14, 14, 14);
+  }
+  
+  .menu-area li a{
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: block;
+    padding: 0 25px;
+    font-size: 14px;
+    line-height: 30px;
+    position: relative;
+    z-index: 1;
+  }
+  .menu-area li{
+    list-style: none;
+    display: inline-block;
+  }
+  
+  nav{
+    position: relative;
+    padding: 10px 20px 10px 20px;
+    text-align: left;
+    z-index: 1;
+    background: rgb(14, 14, 14);
+    margin: 25px;
+    width:calc(100% - 60px);
+  }
+  
+  .menu-area li a:hover{
+    background: rgb(37, 37, 37);
+    color: #ffffff;
+      text-decoration: underline;
+  }
+  
+  .logo{
+    float: left;
+  }
+  
+  .topnav .search-container{
+    float: right;
+  }
+  
+  .topnav input[type="text"]{
+    padding: 6px;
+    font-size: 16px;
+  }
